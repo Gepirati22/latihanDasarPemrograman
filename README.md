@@ -1,5 +1,5 @@
 # latihanDasarPemrograman
-Nama  : Gepira Nur Patimah
-NIM   : 20220040109
-Kelas : TI22F
+Nama  : Gepira Nur Patimah <br/>
+NIM   : 20220040109 <br/>
+Kelas : TI22F <br/>
 Prodi : Teknik Informatika
